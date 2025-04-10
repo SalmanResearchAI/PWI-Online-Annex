@@ -63,5 +63,4 @@ Each figure shows synchronized trends for:
 If you use or refer to the materials here, please cite the paper:
 
 E. Evangelista, A. Nazir, R. Sharma, S. Bukhari (2025). "Introducing a Physiological Wellness Index (PWI) for Health and Well-Being".
-IADIS International Conference on e-Health, 2025.
 ---
